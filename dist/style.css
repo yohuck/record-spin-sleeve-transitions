@@ -44,7 +44,6 @@ body{
   justify-content: center;
   background-color: #A63D40;
   flex-direction: column;
-/*   z-index:3; */
 }
 
 .dot {
@@ -72,12 +71,8 @@ body{
 }
 
 .sleeve:hover {
-  margin-left: -23rem;
-  opacity: 0%;
-  transition: margin-left .5s, opacity .7s;
-  transition-delay: 0s, .25s;
-  
-    
+  margin-left: -14rem;
+  transition: 2s;
   
 }
 
